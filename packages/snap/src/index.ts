@@ -70,7 +70,7 @@ export const onTransaction: OnTransactionHandler = async ({ transaction }) => {
           2,
         )}%** in gas fees and **${transferPercentage.toFixed(
           2,
-        )}%**  and of your total balance for this transaction.`,
+        )}%** of your total balance for this transaction.`,
       ),
     ]),
   };
